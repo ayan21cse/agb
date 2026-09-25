@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#e6e9e1"/>
+<g fill="none" stroke="#697464" stroke-width="5" opacity=".8">
+<path d="M600 120c-115 0-205 80-205 190 0 70 36 111 84 139 37 22 55 45 55 91h132c0-46 18-69 55-91 48-28 84-69 84-139 0-110-90-190-205-190z"/>
+<path d="M505 275c40-60 82 5 20 48s22 77 64 22 92-20 58 39-94 39-92 95"/>
+<path d="M694 275c-40-60-82 5-20 48s-22 77-64 22"/>
+<path d="M520 580h160M540 610h120"/>
+</g>
+<g fill="#292823">
+<circle cx="470" cy="205" r="10"/><circle cx="730" cy="205" r="10"/>
+<circle cx="415" cy="355" r="9"/><circle cx="785" cy="355" r="9"/>
+<circle cx="600" cy="180" r="9"/>
+</g>
+<text x="600" y="90" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#292823">Structure of Mind</text>
+</svg>
